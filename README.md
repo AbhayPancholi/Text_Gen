@@ -1,7 +1,3 @@
-Great! Based on the code provided, here's a potential README for your GitHub repository:
-
----
-
 # Jungle Book Text Generator using LSTM
 
 This repository contains a text generation model built using LSTM (Long Short-Term Memory) neural networks. The model has been trained on the text from the literary work "The Jungle Book" by Rudyard Kipling.
